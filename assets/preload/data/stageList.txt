@@ -1,0 +1,4 @@
+stage
+ikachanStage
+ikachanStage2
+takochanStage
