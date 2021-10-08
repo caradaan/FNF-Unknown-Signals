@@ -469,6 +469,8 @@ class PlayState extends MusicBeatState
 				dialogue = CoolUtil.coolTextFile(Paths.txt('data/thorns/thornsDialogue'));
 			case 'uni':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('data/uni/idDialog'));
+			case 'green-erosion':
+				dialogue = CoolUtil.coolTextFile(Paths.txt('data/green-erosion/idDialog'));
 		}
 
 		// defaults if no stage was found in chart
@@ -1385,6 +1387,8 @@ class PlayState extends MusicBeatState
 				case 'thorns':
 					schoolIntro(doof);
 				case 'uni':
+					schoolIntro(doof);
+				case 'green-erosion':
 					schoolIntro(doof);
 				default:
 					startCountdown();
