@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Id",
+	"position": [
+		110,
+		11
+	],
+	"scale": 1,
+	"idle_anim": "idLine",
+	"confirm_anim": "idLine"
+}

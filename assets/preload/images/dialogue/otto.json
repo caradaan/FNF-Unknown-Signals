@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-60
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"loop_name": "ottoA",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ottoA",
+			"anim": "ottoA",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ottoNo",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ottoNo",
+			"anim": "ottoN",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ottoF",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ottoF",
+			"anim": "ottoF",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "otto_Dialogue"
+}

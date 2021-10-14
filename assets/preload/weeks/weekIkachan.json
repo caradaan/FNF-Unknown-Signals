@@ -1,0 +1,39 @@
+{
+	"storyName": "Green Erosion",
+	"hideFreeplay": false,
+	"weekBackground": "ika",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Uni",
+			"id",
+			[
+				146,
+				193,
+				135
+			]
+		],
+		[
+			"Green Erosion",
+			"id",
+			[
+				106,
+				133,
+				95
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"id",
+		"bfG",
+		"gfG"
+	],
+	"weekName": "Week1"
+}

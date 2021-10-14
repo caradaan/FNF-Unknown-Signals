@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Id.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idLine0000" x="23" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0001" x="23" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0002" x="495" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0003" x="495" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0004" x="967" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0005" x="967" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0006" x="1439" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0007" x="1439" y="23" width="453" height="377"/>
+	<SubTexture name="idLine0008" x="23" y="419" width="453" height="377"/>
+	<SubTexture name="idLine0009" x="23" y="419" width="453" height="377"/>
+	<SubTexture name="idLine0010" x="495" y="419" width="453" height="377"/>
+	<SubTexture name="idLine0011" x="495" y="419" width="453" height="377"/>
+	<SubTexture name="idLine0012" x="967" y="419" width="453" height="377"/>
+	<SubTexture name="idLine0013" x="967" y="419" width="453" height="377"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "idN",
+			"text": "Thank you! That was fun!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "idN",
+			"text": "I heard that there are some dangerous aliens wandering around, You'd better be careful!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "idF",
+			"text": "Especially, I don't like the red guy."
+		}
+	]
+}

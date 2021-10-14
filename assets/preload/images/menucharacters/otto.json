@@ -1,0 +1,10 @@
+{
+	"idle_anim": "ottoLine",
+	"image": "Menu_Otto",
+	"position": [
+		20,
+		20
+	],
+	"scale": 0.95,
+	"confirm_anim": "M Dad Idle"
+}

@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "normal",
+			"expression": "ottoF",
+			"text": "You're all freaking disgusting!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "angry",
+			"expression": "ottoA",
+			"text": "Why do I have to deal with this freaking rap? Fu-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "normal",
+			"expression": "ottoA",
+			"text": "SHUT UP!"
+		}
+	]
+}

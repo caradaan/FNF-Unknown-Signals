@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "normal",
+			"expression": "ottoN",
+			"text": "Oh, Are you a survior?\\nWhat the hell are you doing around here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "normal",
+			"expression": "ottoF",
+			"text": "You think I'm the only one who's messed up this city?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "normal",
+			"expression": "ottoF",
+			"text": "Is your brain a sponge?\\nThere are a lot of other aliens like me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Beep boop ske...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skee beep bo bap poh bee dop boop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "angry",
+			"expression": "ottoA",
+			"text": "What! You met the green guy?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "angry",
+			"expression": "ottoF",
+			"text": "I HATE that guy! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "otto",
+			"boxState": "angry",
+			"expression": "ottoA",
+			"text": "I was supposed to be the one to destroy this planet first! But he did it!"
+		}
+	]
+}

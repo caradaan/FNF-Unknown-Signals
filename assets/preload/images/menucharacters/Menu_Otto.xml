@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Otto.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ottoLine0000" x="15" y="15" width="261" height="395"/>
+	<SubTexture name="ottoLine0001" x="15" y="15" width="261" height="395"/>
+	<SubTexture name="ottoLine0002" x="276" y="15" width="261" height="395"/>
+	<SubTexture name="ottoLine0003" x="276" y="15" width="261" height="395"/>
+	<SubTexture name="ottoLine0004" x="537" y="15" width="261" height="395"/>
+	<SubTexture name="ottoLine0005" x="537" y="15" width="261" height="395"/>
+	<SubTexture name="ottoLine0006" x="15" y="410" width="261" height="395"/>
+	<SubTexture name="ottoLine0007" x="15" y="410" width="261" height="395"/>
+	<SubTexture name="ottoLine0008" x="276" y="410" width="261" height="395"/>
+	<SubTexture name="ottoLine0009" x="276" y="410" width="261" height="395"/>
+	<SubTexture name="ottoLine0010" x="537" y="410" width="261" height="395"/>
+	<SubTexture name="ottoLine0011" x="537" y="410" width="261" height="395"/>
+	<SubTexture name="ottoLine0012" x="537" y="410" width="261" height="395"/>
+	<SubTexture name="ottoLine0013" x="537" y="410" width="261" height="395"/>
+</TextureAtlas>
